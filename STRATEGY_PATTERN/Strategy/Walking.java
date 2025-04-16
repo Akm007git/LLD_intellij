@@ -6,4 +6,3 @@ public class Walking implements Strategy {
         System.out.println("Walking from " + start + " to " + end);
     }
 }
-
