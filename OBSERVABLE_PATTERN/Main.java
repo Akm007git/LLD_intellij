@@ -15,9 +15,9 @@ public class Main {
 
         PhoneDisplay motorola =  new PhoneDisplay("Motorola");
         TVdisplay lg = new TVdisplay("LG");
-        Laptop asus = new Laptop("Asus");
+        Laptop asus = new Laptop("Asusudu");
 
-        // now we need  to add te observers to tye observer list
+        // now we need to add te observers to the observer list
         wp.addObserver(motorola);
         wp.addObserver(lg);
         wp.addObserver(asus);
